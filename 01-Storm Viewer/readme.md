@@ -16,6 +16,16 @@ override func viewDidLoad() {
 
 
 
+- 显示/隐藏导航栏
+
+`ViewController` 可以通过点击屏幕来显示或隐藏导航栏，示例代码：
+
+```swift
+navigationController?.hidesBarsOnTap = true //单击屏幕来显示/隐藏导航栏
+```
+
+
+
 - 文件系统
 
 ```swift
