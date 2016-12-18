@@ -37,7 +37,7 @@ present(ac, animated: true)
 
 其中 "Correct" 是 `UIAlertController` 的 `title`, 而 "Continue" 是 `UIAlertAction` 的 `title`,  `askQuestion` 是点击 ”Continue“ 时调用的方法。如图所示：
 
-![1](/Users/jaxer/Desktop/1.png)
+![1](https://github.com/Ranch2014/HackingWithSwift/blob/master/02-Guess%20the%20Flag/pics/pic1.png)
 
 > 注意：这里应该写 `askQuestion` 而不是 `askQuestion()`。
 
@@ -51,7 +51,7 @@ Q：自动布局为何宽度由为200变为254？？？
 
 如图所示：
 
-![2](/Users/jaxer/Desktop/2.png)
+![2](https://github.com/Ranch2014/HackingWithSwift/blob/master/02-Guess%20the%20Flag/pics/pic2.png)
 
 
 
