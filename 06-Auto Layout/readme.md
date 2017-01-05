@@ -54,7 +54,7 @@ view.addConstraints(NSLayoutConstraint.constraints(withVisualFormat: "V:[label1]
 
 PS: 其中 "-" 表示空格，默认是10points. 效果如下图所示：
 
-![1](/Users/jaxer/MyGitHub/HackingWithSwift/06-Auto Layout/mgs/1.png)
+![1](https://github.com/Ranch2014/HackingWithSwift/blob/master/06-Auto%20Layout/mgs/1.png)
 
 若去掉 "-", 则中间的间隔就没了（见末尾图）。
 
@@ -125,7 +125,7 @@ for label in [label1, label2, label3, label4, label5] {
 
 效果如图所示：
 
-![2](/Users/jaxer/MyGitHub/HackingWithSwift/06-Auto Layout/mgs/2.png)
+![2](https://github.com/Ranch2014/HackingWithSwift/blob/master/06-Auto%20Layout/mgs/2.png)
 
 
 
