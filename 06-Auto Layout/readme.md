@@ -52,7 +52,7 @@ for label in viewDictionary.keys {
 view.addConstraints(NSLayoutConstraint.constraints(withVisualFormat: "V:[label1]-[label2]-[label3]-[label4]-[label5]", options: [], metrics: nil, views: viewDictionary))
 ```
 
-PS: 其中 "-" 表示空格，默认是10points. 效果如下图所示：
+PS: 其中 "-" 表示view之间的间隔，默认是10points. 效果如下图所示：
 
 ![1](https://github.com/Ranch2014/HackingWithSwift/blob/master/06-Auto%20Layout/mgs/1.png)
 
